@@ -10,4 +10,3 @@ Object-Oriented Programming
 Software Testing
 Project Files
 
-The complete project files are available in this repository.
