@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=COORD
+comment1.params=title\ input\ Exoutput\ debug
+comment1.target=boolean\ NewTestCase(java.lang.String,\ int,\ int,\ java.lang.StringBuilder)
+comment2.params=fileName\ debug
+comment2.target=boolean\ LoadTestCase(java.lang.String,\ java.lang.StringBuilder)
+comment3.params=Name\ debug
+comment3.target=boolean\ CreateTestSuite(java.lang.String,\ java.lang.StringBuilder)
+comment4.params=Title\ Filename\ debug
+comment4.target=boolean\ SaveTestCase(java.lang.String,\ java.lang.String,\ java.lang.StringBuilder)
+comment5.params=tsName\ tcName\ debug
+comment5.target=boolean\ addTestCaseToTestSuite(java.lang.String,\ java.lang.String,\ java.lang.StringBuilder)
+comment6.params=testCaseTitle\ programFolder\ debug
+comment6.target=java.lang.String\ traceTestCase(java.lang.String,\ java.lang.String,\ java.lang.StringBuilder)
+comment7.params=Title
+comment7.target=java.lang.String\ printTC(java.lang.String)
+comment8.params=results\ fileName\ debug
+comment8.target=boolean\ saveStudentResults(java.util.List,\ java.lang.String,\ java.lang.StringBuilder)
+comment9.params=suiteName\ rootFolderPath\ x\ debug
+comment9.target=java.util.List\ runTestSuiteOnFolder(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.StringBuilder)
+numComments=10

@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=StudentResults
+comment0.text=\n\ A\ class\ that\ will\ help\ store\ student\ results.\n\n\ @author\ CS\ 2043\ Group\ 10\n\ @version\ (6th\ Nov\ 2025)\n
+comment1.params=studentName\ folderPath\ totalTests\ passedTests\ testResults
+comment1.target=StudentResults(java.lang.String,\ java.lang.String,\ int,\ int,\ java.util.Map)
+comment2.params=
+comment2.target=java.lang.String\ getStudentName()
+comment3.params=
+comment3.target=java.lang.String\ getFolderPath()
+comment4.params=
+comment4.target=int\ getTotalTests()
+comment5.params=
+comment5.target=int\ getPassedTests()
+comment6.params=
+comment6.target=java.util.Map\ getTestResults()
+numComments=7

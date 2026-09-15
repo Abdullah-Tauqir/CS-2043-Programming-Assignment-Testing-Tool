@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=ListTS
+comment0.text=\n\ A\ list\ of\ test\ suites\n\ Handles\ adding\ and\ searching\ test\ suites\ safely.\n
+comment1.params=
+comment1.target=ListTS()
+numComments=2

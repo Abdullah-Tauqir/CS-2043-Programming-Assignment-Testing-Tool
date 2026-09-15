@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=SuccessRate
+comment1.params=suite\ results
+comment1.target=double\ getTestSuiteSuccessRate(TestSuite,\ boolean[])
+comment2.params=rate
+comment2.target=java.lang.String\ formatRate(double)
+numComments=3
